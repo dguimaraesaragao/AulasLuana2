@@ -1,0 +1,13 @@
+C:\Users\diego\source\repos\AulasLuana\Aula01.exercicio08\bin\Debug\netcoreapp3.1\Aula01.exercicio08.exe
+C:\Users\diego\source\repos\AulasLuana\Aula01.exercicio08\bin\Debug\netcoreapp3.1\Aula01.exercicio08.deps.json
+C:\Users\diego\source\repos\AulasLuana\Aula01.exercicio08\bin\Debug\netcoreapp3.1\Aula01.exercicio08.runtimeconfig.json
+C:\Users\diego\source\repos\AulasLuana\Aula01.exercicio08\bin\Debug\netcoreapp3.1\Aula01.exercicio08.runtimeconfig.dev.json
+C:\Users\diego\source\repos\AulasLuana\Aula01.exercicio08\bin\Debug\netcoreapp3.1\Aula01.exercicio08.dll
+C:\Users\diego\source\repos\AulasLuana\Aula01.exercicio08\bin\Debug\netcoreapp3.1\Aula01.exercicio08.pdb
+C:\Users\diego\source\repos\AulasLuana\Aula01.exercicio08\obj\Debug\netcoreapp3.1\Aula01.exercicio08.csprojAssemblyReference.cache
+C:\Users\diego\source\repos\AulasLuana\Aula01.exercicio08\obj\Debug\netcoreapp3.1\Aula01.exercicio08.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\AulasLuana\Aula01.exercicio08\obj\Debug\netcoreapp3.1\Aula01.exercicio08.AssemblyInfo.cs
+C:\Users\diego\source\repos\AulasLuana\Aula01.exercicio08\obj\Debug\netcoreapp3.1\Aula01.exercicio08.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\AulasLuana\Aula01.exercicio08\obj\Debug\netcoreapp3.1\Aula01.exercicio08.dll
+C:\Users\diego\source\repos\AulasLuana\Aula01.exercicio08\obj\Debug\netcoreapp3.1\Aula01.exercicio08.pdb
+C:\Users\diego\source\repos\AulasLuana\Aula01.exercicio08\obj\Debug\netcoreapp3.1\Aula01.exercicio08.genruntimeconfig.cache

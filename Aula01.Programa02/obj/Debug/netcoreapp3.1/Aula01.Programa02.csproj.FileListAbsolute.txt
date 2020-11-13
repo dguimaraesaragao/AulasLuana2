@@ -1,0 +1,13 @@
+C:\Users\diego\source\repos\AulasLuana\Aula01.Programa02\bin\Debug\netcoreapp3.1\Aula01.Programa02.exe
+C:\Users\diego\source\repos\AulasLuana\Aula01.Programa02\bin\Debug\netcoreapp3.1\Aula01.Programa02.deps.json
+C:\Users\diego\source\repos\AulasLuana\Aula01.Programa02\bin\Debug\netcoreapp3.1\Aula01.Programa02.runtimeconfig.json
+C:\Users\diego\source\repos\AulasLuana\Aula01.Programa02\bin\Debug\netcoreapp3.1\Aula01.Programa02.runtimeconfig.dev.json
+C:\Users\diego\source\repos\AulasLuana\Aula01.Programa02\bin\Debug\netcoreapp3.1\Aula01.Programa02.dll
+C:\Users\diego\source\repos\AulasLuana\Aula01.Programa02\bin\Debug\netcoreapp3.1\Aula01.Programa02.pdb
+C:\Users\diego\source\repos\AulasLuana\Aula01.Programa02\obj\Debug\netcoreapp3.1\Aula01.Programa02.csprojAssemblyReference.cache
+C:\Users\diego\source\repos\AulasLuana\Aula01.Programa02\obj\Debug\netcoreapp3.1\Aula01.Programa02.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\AulasLuana\Aula01.Programa02\obj\Debug\netcoreapp3.1\Aula01.Programa02.AssemblyInfo.cs
+C:\Users\diego\source\repos\AulasLuana\Aula01.Programa02\obj\Debug\netcoreapp3.1\Aula01.Programa02.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\AulasLuana\Aula01.Programa02\obj\Debug\netcoreapp3.1\Aula01.Programa02.dll
+C:\Users\diego\source\repos\AulasLuana\Aula01.Programa02\obj\Debug\netcoreapp3.1\Aula01.Programa02.pdb
+C:\Users\diego\source\repos\AulasLuana\Aula01.Programa02\obj\Debug\netcoreapp3.1\Aula01.Programa02.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\diego\source\repos\AulasLuana\Aula01.Desafio\bin\Debug\netcoreapp3.1\Aula01.Desafio.exe
+C:\Users\diego\source\repos\AulasLuana\Aula01.Desafio\bin\Debug\netcoreapp3.1\Aula01.Desafio.deps.json
+C:\Users\diego\source\repos\AulasLuana\Aula01.Desafio\bin\Debug\netcoreapp3.1\Aula01.Desafio.runtimeconfig.json
+C:\Users\diego\source\repos\AulasLuana\Aula01.Desafio\bin\Debug\netcoreapp3.1\Aula01.Desafio.runtimeconfig.dev.json
+C:\Users\diego\source\repos\AulasLuana\Aula01.Desafio\bin\Debug\netcoreapp3.1\Aula01.Desafio.dll
+C:\Users\diego\source\repos\AulasLuana\Aula01.Desafio\bin\Debug\netcoreapp3.1\Aula01.Desafio.pdb
+C:\Users\diego\source\repos\AulasLuana\Aula01.Desafio\obj\Debug\netcoreapp3.1\Aula01.Desafio.csprojAssemblyReference.cache
+C:\Users\diego\source\repos\AulasLuana\Aula01.Desafio\obj\Debug\netcoreapp3.1\Aula01.Desafio.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\AulasLuana\Aula01.Desafio\obj\Debug\netcoreapp3.1\Aula01.Desafio.AssemblyInfo.cs
+C:\Users\diego\source\repos\AulasLuana\Aula01.Desafio\obj\Debug\netcoreapp3.1\Aula01.Desafio.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\AulasLuana\Aula01.Desafio\obj\Debug\netcoreapp3.1\Aula01.Desafio.dll
+C:\Users\diego\source\repos\AulasLuana\Aula01.Desafio\obj\Debug\netcoreapp3.1\Aula01.Desafio.pdb
+C:\Users\diego\source\repos\AulasLuana\Aula01.Desafio\obj\Debug\netcoreapp3.1\Aula01.Desafio.genruntimeconfig.cache
