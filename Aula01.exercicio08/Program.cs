@@ -14,7 +14,8 @@ namespace Aula01.exercicio08
 
 
             double velk;
-            double velm;
+
+                    double velm;
             double temph = 50.5;
             double temps = temph / 60;
             double dist = 15;
